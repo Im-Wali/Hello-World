@@ -47,6 +47,9 @@ public class linearSearch {
         re3 = linearSearchs(IntegerList, x->x.equals(3));
         re4 = linearSearchs(IntegerList, x->x.equals(4));
         System.out.println(re1 + ", " + re2  + ", " + re3 + ", " + re4);
+        
+        re1 = linearSearchs(IntegerList, x->x.equals(5));
+        System.out.println(re1);
     }
     public static <T> int linearSearchs (List<T> list, Predicate<T> check){
         int index = 0 ;
