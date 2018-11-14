@@ -51,6 +51,7 @@ public class linearSearch {
         re1 = linearSearchs(IntegerList, x->x.equals(5));
         System.out.println(re1);
     }
+    
     public static <T> int linearSearchs (List<T> list, Predicate<T> check){
         int index = 0 ;
         
