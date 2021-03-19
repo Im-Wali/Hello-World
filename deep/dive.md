@@ -82,3 +82,20 @@ width="300" align="right" />
 
 
 
+
+
+
+
+
+
+
+
+
+## small size test
+
+![KakaoTalk_20210319_144815576_01](https://user-images.githubusercontent.com/44036052/111753590-642f4680-88da-11eb-96c2-0eacd5ed2486.png)
+
+<img src="https://user-images.githubusercontent.com/44036052/111753590-642f4680-88da-11eb-96c2-0eacd5ed2486.png">
+
+<img src="https://user-images.githubusercontent.com/44036052/111753590-642f4680-88da-11eb-96c2-0eacd5ed2486.png" width="50%">
+
